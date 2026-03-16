@@ -1,7 +1,5 @@
 # Neglect Wordlist
-## Provided by Nexus
 ## Copyright (c) 2026 Nyx | MIT License
-# ---------------------------------------------------------
 A comprehensive plaintext wordlist. This repository contains profane terms, sexual content, common bypasses, emojis, and localized Chinese terms for use in content filters and moderation systems.
 
 ​# ⚖️ Usage
